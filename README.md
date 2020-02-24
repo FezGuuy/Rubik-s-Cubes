@@ -21,4 +21,4 @@ Considering my first times with the pyraminx duo were around 30-45 seconds this 
 ### <h2>Current Goals
   - [x] Find a way to explain my pyraminx duo methods
   - [ ] Learn to solve a pyraminx
-  - [ ] Improve my pyraminx duo times
+  - [x] Improve my pyraminx duo times
