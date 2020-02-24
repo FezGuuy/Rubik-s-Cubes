@@ -6,9 +6,9 @@ Currently my abilities are not very developed as before this class I had probabl
 Despite this I have signifigantly improved my ability with a pyraminx duo, yes it is considered easy but in my mind considering my   experience I believe my accomplishments are at least noticable.
   This improvement can be seen with my average times with them being ao5, 12 and 25 (they are listed in this repective order in seconds)
   <ol>
-    <li>6.45</li>
-    <li>6.49</li>
-    <li>7.44</li>
+    <li>5.23</li>
+    <li>5.18</li>
+    <li>4.88</li>
   </ol>
 Considering my first times with the pyraminx duo were around 30-45 seconds this is a very large improvement, and I have even been able to  understand algorythms that help me solve the cube, for example in my mind I like to solve one side by looking for a corner peice that has its colour attached to it and see where it needs to go, I move it out of the way of any peices that need to be moved so the center peice can be in the correct area once I solve the right side, then it should only take one crank on the back peice to fully solve.
 
