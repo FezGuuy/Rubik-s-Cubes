@@ -23,3 +23,6 @@ Considering my first times with the pyraminx duo were around 30-45 seconds this 
   - [x] Learn to solve a pyraminx
   - [x] Improve my pyraminx duo times
   - [ ] Improve pyraminx abilities
+
+##### <h3>Pyraminx
+  Despite being able to fully solve it more than once, I still struggle to bring it to the final stages where I am 100% capable of solving it, and because of this I believe it will be at least a little bit until I can check of the final box on the checklist, however if I do I will explain my method to be able to do so.
