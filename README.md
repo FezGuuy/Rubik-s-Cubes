@@ -30,18 +30,18 @@ Considering my first times with the pyraminx duo were around 30-45 seconds this 
   - [x] Find a way to explain my pyraminx duo methods
   - [x] Learn to solve a pyraminx
   - [x] Improve my pyraminx duo times
-  - [ ] Improve pyraminx abilities
+  - [x] Improve pyraminx abilities
 
 ##### <h3>Pyraminx
-  Despite being able to fully solve it more than once, I still struggle to bring it to the final stages where I am 100% capable of solving it, and because of this I believe it will be at least a little bit until I can check of the final box on the checklist, however if I do I will explain my method to be able to do so. However I can explain the algorithm I use in the last few turns in this ordered list
+  I have been able to solve a pyraminx multiple times and can get to the end fairly reliably, however I am still unable to do so in a very timely manner, yet I still see it as fair to say that I have improved my abilities with the cube, from bringing my abilities of solving it almost with luck, to actually being able to know what to do to get what in a more formatted fasion. Despite all this I dont feel capable of describing how I solve because I have not had a moment to fully analyse my process, to get to the final stages but I can still describe these at the least in this ordered list
   <ol>
     <li>Check to see if you have one side solved and the outermost peices on each side are the same mismatched colours (ex: blue side has 2 red peices in the positions</li>
     <li>Then begin with having the solved side on the bottom and any one side facing you</li>
     <li>See which way the mismatched peices have to go, if they have to go right continue reading, if not, skip to step 7</li>
-    <li>Begin by turning the right corner away from you, then the top peice to the right in that order</li>
-    <li>Next turn the right peice towards you and the top to the right in that order</li>
-    <li>Continue until the pyraminx is solved</li>
-    <li>If the peices have to go left the algorithm is similar to if they have to go to the right, start by turning the left corner towards you and the top peice left in that order</li>
-    <li>Next turn the left peice away and the top peice to the left</li>
-    <li>Continue until the pyraminx is solved</li>
+    <li>Begin by turning the right corner towards you, then the top peice to the right in that order</li>
+    <li>Next turn the right peice away from you and the top to the right in that order</li>
+    <li>Continue until the pyraminx is solved or in a postition that is close to being solved then at most you just have to turn the top once to put it in place</li>
+    <li>If the peices have to go left the algorithm is similar to if they have to go to the right, start by turning the right corner towards you and the top peice left in that order</li>
+    <li>Next turn the right peice away and the top peice to the left</li>
+    <li>Continue until the pyraminx is solved or in a postition that is close to being solved then at most you just have to turn the top once to put it in place</li>
   </ol>
